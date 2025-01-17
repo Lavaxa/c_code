@@ -1,0 +1,4 @@
+﻿  game.c
+D:\game1\game1\game.c(19,4): warning C4013: “printf”未定义；假设外部返回 int
+D:\game1\game1\game.c(40,3): warning C4013: “scanf”未定义；假设外部返回 int
+  game1.vcxproj -> D:\game1\x64\Debug\game1.exe
